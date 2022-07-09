@@ -1,19 +1,25 @@
 .copyright {
    padding: 20px;
    font-weight: bold;
-   
+   text-align: center;
+   padding: 19%;
 }
 
-.botao {
-    background-color: var(--branca);
-    border-radius: 30px;
-    box-shadow: 3px 3px 0 var(--cinza);
-    color: var(--vermelha);
-    cursor: pointer;
-    height: 270px;
-    font-size: 1.75em;
-    font-weight: bold;
-    line-height: 270px;
+.perguntas {
     text-align: center;
-    width: 270px;
+    font-weight: bold;
+    color: blue;
+    border-radius: 30px;
+
+#per1 {
+   padding: 5%;
+}
+
+#per2 {
+    padding: 5%;
+}
+
+#per3 {
+    padding: 5%;
+
 }
