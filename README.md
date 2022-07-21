@@ -1,3 +1,3 @@
 # 7daysofCode
 
-Dia 01 -  fazer com que os codigos de console sejam impressos corretos.
+7 dias de Desafios de estudos para aplicar o conhecimento adquirido.
